@@ -2,7 +2,6 @@ package com.ProjectAPI.APIRestUsers.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
-import org.springframework.beans.factory.annotation.Value;
 
 @Data
 @Entity
@@ -12,7 +11,6 @@ import org.springframework.beans.factory.annotation.Value;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-
 public class User {
 
     @Id

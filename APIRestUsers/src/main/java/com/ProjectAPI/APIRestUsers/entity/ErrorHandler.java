@@ -1,8 +1,6 @@
 package com.ProjectAPI.APIRestUsers.entity;
 
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.NamedEntityGraph;
 import lombok.*;
 
 @Getter
